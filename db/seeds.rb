@@ -8,3 +8,4 @@
 
 
 Customer.create!(name: "Jooa Daniel", phone: "123", address: "Rua Marcos Macedo")
+Attendance.create!(customer_id: '1', weight: '53', reveune: 'dipirona', symptoms: 'dor de cabeça')
